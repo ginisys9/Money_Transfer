@@ -1,0 +1,15 @@
+a{
+     text-decoration: none;
+    display: inline-block;
+    margin-left: 20px;
+     font-size: 20px;
+}
+.main-header{
+    padding: 1rem 0px;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+.color{
+    background-color: red;
+}
